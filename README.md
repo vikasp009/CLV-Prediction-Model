@@ -51,7 +51,7 @@ This project successfully demonstrates the ability to predict Customer Lifetime 
 
 ---
 
-*End of Report*
+****End of Report****
 
 
 
@@ -91,5 +91,5 @@ Predict customer churn and derive actionable strategies to retain users in a hig
 
 
 
-*End of Report*
+*****End of Report*****
 
